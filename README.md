@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **javascript and react**
 
-- 📫 How to reach me **utsho926@gmail.com**
+- 📫 You can reach me **utsho926@gmail.com**
 
 - ⚡ Fun fact **I think i'm not funny!**
 
