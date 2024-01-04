@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **online education platform iGuru**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Source-Code-007](https://github.com/Source-Code-007)
+- 👨‍💻 All of my projects are available at [https://utshofolio.web.app/](utshoFolio)
 
 - 💬 Ask me about **javascript and react**
 
