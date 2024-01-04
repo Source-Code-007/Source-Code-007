@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://utshofolio.web.app/](utshoFolio)
+- 👨‍💻 All of my projects are available at [utshoFolio](https://utshofolio.web.app/)
 
 - 💬 Ask me about **javascript and react**
 
