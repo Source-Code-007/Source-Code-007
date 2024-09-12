@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=source-code-007" alt="source-code-007" /></a> </p>
 
-- 🔭 I’m currently working on **online education platform iGuru**
+- 🔭 I’m currently working on **DocEye** using Next.js, Next UI, Express JS, MongoDB (Mongoose) and Redux
 
 - 🌱 I’m currently learning **Next js**
 
